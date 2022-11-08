@@ -8,8 +8,8 @@
 const siteConfig = {
   title: 'superplate',
   tagline: 'The frontend boilerplate with superpowers',
-  url: 'https://pankod.github.io',
-  baseUrl: '/superplate/',
+  url: 'https://superplate-two.vercel.app',
+  baseUrl: '/',
   projectName: 'superplate',
   organizationName: 'Bells Vista',
   favicon: 'img/superplate-logo.svg',
