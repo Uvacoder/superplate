@@ -10,7 +10,7 @@
     "bugs": {
         "url": "https://github.com/pankod/superplate/issues"
     },
-    "homepage": "https://pankod.github.io/superplate/",
+    "homepage": "https://superplate-two.vercel.app",
     "bin": {
         "superplate": "lib/index.js"
     },
