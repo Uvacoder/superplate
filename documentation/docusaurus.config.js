@@ -11,7 +11,7 @@ const siteConfig = {
   url: 'https://pankod.github.io',
   baseUrl: '/superplate/',
   projectName: 'superplate',
-  organizationName: 'pankod',
+  organizationName: 'Bells Vista',
   favicon: 'img/superplate-logo.svg',
   presets: [
     [
@@ -21,7 +21,7 @@ const siteConfig = {
           path: './docs',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/pankod/superplate/tree/master/documentation',
+            'https://github.com/uvacoder/superplate/tree/master/documentation',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -52,7 +52,7 @@ const siteConfig = {
       items: [
         { to: 'docs', label: 'Docs', position: 'right' },
         {
-          href: 'https://github.com/pankod/superplate',
+          href: 'https://github.com/uvacoder/superplate',
           label: 'GitHub',
           position: 'right',
         },
@@ -79,7 +79,7 @@ const siteConfig = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/PankodDev',
+              href: 'https://twitter.com/VaLandscapes',
             },
           ],
         },
@@ -88,12 +88,12 @@ const siteConfig = {
           items: [
             {
               label: 'GitHub',
-              href: "https://github.com/pankod/superplate",
+              href: "https://github.com/uvacoder/superplate",
             },
             {
               html: `
-                  <a href="https://github.com/pankod/superplate" target="_blank" rel="noreferrer noopener" aria-label="Star this project on GitHub">
-                    <img src="https://img.shields.io/github/stars/pankod/superplate?logo=reverbnation&logoColor=white" alt="github-stars" />
+                  <a href="https://github.com/uvacoder/superplate" target="_blank" rel="noreferrer noopener" aria-label="Star this project on GitHub">
+                    <img src="https://img.shields.io/github/stars/uvacoder/superplate?logo=reverbnation&logoColor=white" alt="github-stars" />
                   </a>
                 `,
             },
@@ -103,9 +103,9 @@ const siteConfig = {
       logo: {
         alt: 'Pankod Logo',
         src: 'img/pankod_footer_logo.png',
-        href: 'https://github.com/pankod'
+        href: 'https://github.com/uvacoder'
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Pankod, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} BellsVista, Inc.`,
     },
   },
 };
