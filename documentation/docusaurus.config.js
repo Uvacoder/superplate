@@ -33,10 +33,6 @@ const siteConfig = {
   ],
   themeConfig: {
     image: 'img/footer_icon.png',
-    algolia: {
-      apiKey: '3b7cf26a19755c7de95bcb3632edd314',
-      indexName: 'superplate',
-    },
     navbar: {
       title: 'superplate',
       logo: {
