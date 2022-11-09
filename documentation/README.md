@@ -1,5 +1,12 @@
 # Website
 
+```
+algolia: {
+      apiKey: '3b7cf26a19755c7de95bcb3632edd314',
+      indexName: 'superplate',
+    },
+```    
+    
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ## Installation
